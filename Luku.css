@@ -1,0 +1,11 @@
+h2{
+    color: aqua;
+}
+p{
+    font-family: Arial, Helvetica, sans-serif;
+}
+th,td{
+    border: 1px solid black;
+    padding: 10px;
+    border-collapse: collapse;
+}

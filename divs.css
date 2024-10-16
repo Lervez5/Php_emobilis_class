@@ -1,0 +1,19 @@
+.red{
+    background-color: aqua;
+    color: red;
+}
+.green{
+    background-color: yellow;
+    color: green;
+}
+#watermelon{
+    color: purple;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.main div{
+    color: red;
+}
+.sub div{
+    color: aquamarine;
+}
